@@ -1,0 +1,14 @@
+.bg-img {
+  background-image: url("../assets/images/bg-img.png");
+  height: 400px;
+  background-repeat: no-repeat;
+  width: 100%;
+  aspect-ratio: 1512/609;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  text-align: center;
+}
